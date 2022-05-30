@@ -24,4 +24,4 @@ If you like what I am doing, there are a number of ways you can support me.
 
 ## Get help
 
-For quick acces to help you can join my Discord server: https://discord.gg/RE3XevS
+For quick access to help you can join my Discord server: https://discord.gg/RE3XevS
