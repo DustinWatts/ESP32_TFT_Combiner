@@ -11,6 +11,10 @@ An extra row of headers can be placed next to the ESP32 to be able to access all
 
 All other pins are not used by the ESP32 TFT Combiner and can be used freely.
 
+## Shared Project on EasyEDA ##
+
+The reason there are no design files for this board, is because I designed it in EasyEDA. To modify this design visit the shared project here: https://oshwlab.com/DustinWatts/ftd-plugin-board
+
 ## Support Me
 
 If you like what I am doing, there are a number of ways you can support me. 
