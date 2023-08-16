@@ -1,5 +1,5 @@
 # ESP32 TFT Combiner
-A PCB making it easy to combine an ESP32 and a TFT Touchsceen. This PCB is designed to work with https://github.com/DustinWatts/FreeTouchDeck It is made especially for the 38-pin ESP32 DevKitC.
+A PCB making it easy to combine an ESP32 and a TFT Touchsceen. This PCB is designed to work with https://github.com/DustinWatts/FreeTouchDeck It is made especially for the 38-pin ESP32 DevKitC. The board I used you can find here: https://s.click.aliexpress.com/e/_AmfI1H They call it "ESP32-WROOM-32D"
 
 ![](http://dustinwatts.nl/esp32_tft_combiner/esp32_tft_combiner.jpg)
 
